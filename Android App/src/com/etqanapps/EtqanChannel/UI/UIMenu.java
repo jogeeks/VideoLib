@@ -98,7 +98,7 @@ public class UIMenu extends RelativeLayout implements OnItemClickListener {
 
 		li_footer.addView(footer);
 
-		lv = (PullToRefreshListView) findViewById(R.id.lv1);
+		lv = (PullToRefreshListView) findViewById(R.id.lv);
 
 		lv.setAdapter(ad);
 		lv.setOnItemClickListener(this);

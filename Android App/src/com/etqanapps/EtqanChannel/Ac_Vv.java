@@ -17,7 +17,7 @@ public class Ac_Vv extends YouTubeBaseActivity implements OnInitializedListener 
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.vv);
 		video_id=getIntent().getExtras().getString("video_id");
-		System.out.println("video_id : "+video_id);
+		System.out.println ("video_id : "+video_id);
 		
 		YouTubePlayerView player=(YouTubePlayerView)findViewById(R.id.youtube_view);
 		
