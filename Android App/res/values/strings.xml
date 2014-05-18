@@ -2,8 +2,9 @@
 
    	<string name="app_name">TED Talks</string>
     <string name="app_lang">en</string> 
-    <string name="CHANEEL_ID">tedtalksdirector</string>
-    <string name="FEED_URL">http://jogeeks.com/raed/getvideofeed.php</string>
+    <string name="CHANEEL_ID">1122BUB</string>
+    <string name="FEED_URL">http://jogeeks.com/raed/getplaylistfeed.php</string>
+    <string name="PLAYLIST_ID">PL0E5C126153AEC583</string>
     <string name="SEARCH_URL">http://jogeeks.com/raed/search.php</string>
     <string name="AD_UNIT_ID">a1509b90a4ae0fe</string>
     
